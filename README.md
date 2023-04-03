@@ -2,7 +2,7 @@
 
 - 🎓 Atualmente Aluno na **Universidade de Mogi das Cruzes**
 - 👨‍🎓 Fazendo Graduação de **Analise e Desenvolvimento de Sistemas**
-- 📕 Linguagens Que Tenho Conhecimento: **HTML5, CSS3, JavaScript, C#, Python**
+- 📕 Linguagens Que Tenho Conhecimento: **HTML5, CSS3, JavaScript, C#, Python, PostgreSQL**
 - 📚 Meus Estudos Atualmente:
 - Meu <a href="https://www.linkedin.com/in/lucas-santos-191577202/">LinkedIn</a> 
 
