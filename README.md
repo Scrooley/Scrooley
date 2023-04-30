@@ -1,6 +1,6 @@
 ## Bem-Vindo!
 
-- 🎓 Atualmente Aluno na **Universidade de Mogi das Cruzes**
+- 🎓 Atualmente Estudante na **Universidade de Mogi das Cruzes**
 - 👨‍🎓 Fazendo Graduação de **Analise e Desenvolvimento de Sistemas**
 - 📕 Linguagens Que Tenho Conhecimento: **HTML5, CSS3, JavaScript, C#, Python, PostgreSQL, Java**
 - 📚 Meus Estudos Atualmente:
